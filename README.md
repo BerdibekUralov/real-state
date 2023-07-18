@@ -1,5 +1,5 @@
 # 🏡 Responsive Real State Website
-## [Смотри в google]([https://youtu.be/twRLgPsP1H0](https://ho1ux.netlify.app))
+## [Смотри в Google или Yandex](https://ho1ux.netlify.app/)
 ### 🏡 Responsive Real State Website
 
 - Responsive Real State Website Using HTML CSS & JavaScript
